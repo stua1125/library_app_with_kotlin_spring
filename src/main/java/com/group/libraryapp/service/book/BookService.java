@@ -30,7 +30,7 @@ public class BookService {
 
   @Transactional
   public void saveBook(BookRequest request) {
-    Book newBook = new Book(request.getName());
+    Book newBook = new Book(request.getName(), null); // 자바에서는 default 파람을 인식하지 못한다.
     bookRepository.save(newBook);
   }
 
