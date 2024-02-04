@@ -1,4 +1,4 @@
-package com.group.library
+package com.group.libraryapp
 
 import org.junit.jupiter.api.*
 

@@ -1,4 +1,4 @@
-package com.group.library.calculator
+package com.group.libraryapp.calculator
 
 // data class Calculator ( -- Test Code를 확인하는 방법1: data class를 활용해서
 class Calculator (

@@ -1,4 +1,4 @@
-package com.group.library.calculator
+package com.group.libraryapp.calculator
 
 fun main() {
     val calculatorTest = CalculatorTest()
